@@ -8,6 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App name="suleman sarwar" />
     <App name="suleman sarwar" />
+    <Counter count="1"/>
   </React.StrictMode>,
   document.getElementById('root')
 );

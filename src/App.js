@@ -4,7 +4,7 @@ function App(props) {
   return (
     <div >
         <p>
-          Hello world by {props.name}
+          <h1>Hello world by {props.name}</h1>
         </p>
       
     </div>

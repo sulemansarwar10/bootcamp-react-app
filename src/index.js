@@ -8,7 +8,8 @@ import Counter from './counter';
 ReactDOM.render(
   <React.StrictMode>
     <App name="suleman sarwar" />
-    <App name="suleman sarwar"  />
+    <App name="suleman sarwar" />
+    <Counter />
     <Counter />
   </React.StrictMode>,
   document.getElementById('root')
